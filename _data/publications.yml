@@ -1,22 +1,43 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Field-Free Rashba-Type Crystal Torque MRAM with High Efficiency and Thermal Stability
+    authors: <strong>Puyang Huang</strong>, Shan Yao, Aitian Chen, <i>et. al.</i>
+    conference_short: IEDM
+    conference: IEEE International Electron Devices Meeting <strong>(IEDM)</strong>, 2024.
+    pdf: 
+    bibtex: 
+    image: ./assets/img/Crystal_Torque.png
+    notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Integrated Artificial Neural Network with Trainable Activation Function Enabled by Topological Insulator-based Spin-Orbit Torque Devices
+    authors: <strong>Puyang Huang</strong>, Xinqi Liu, Yue Xin, <i>et. al.</i>
+    conference_short: ACS Nano
+    conference: ACS Nano, 2024
+    pdf: https://pubs.acs.org/doi/full/10.1021/acsnano.4c03278
+    image: ./assets/img/Trainable_activation.png
+    notes: 
+
+  - title: Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe2 for Reliable Magnetic Memory Applications
+    authors: Xinqi Liu, <strong>Puyang Huang</strong>, Yunyouyou Xia, <i>et. al.</i>
+    conference_short: Adv. Funct. Mater.
+    conference: Advanced Functional Materials, 2023
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202304454
+    image: ./assets/img/CTBT.png
+    notes: 
+
+  - title: Interfacial Resonance States-Induced Negative Tunneling Magneto-resistance in Orthogonally-Magnetized CoFeB/MgO/CoFeB
+    authors: <strong>Puyang Huang</strong>, Aitian Chen, Jianting Dong, <i>et. al.</i>
+    conference_short: IEEE T. MAGN.
+    conference: IEEE Transactions on Magnetics, 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10400492
+    image: ./assets/img/NegativeTMR.png
+    notes: 
+
+  - title: SOT-MRAM-Enabled Probabilistic Binary Neural Networks for Noise-Tolerant and Fast Training
+    authors: <strong>Puyang Huang</strong>, Yu Gu, Chenyi Fu, <i>et. al.</i>
+    conference_short: arXiv
+    conference: arXiv, 2023
+    pdf: https://arxiv.org/abs/2309.07789
+    image: ./assets/img/PBNN.png
+    notes: 
+

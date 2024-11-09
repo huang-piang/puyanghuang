@@ -1,5 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
+gem 'rexml'
+
+gem "jekyll", "~> 4.0"
+
+gem 'kramdown', '~> 2.3'
 
 gem "webrick", "~> 1.8"
+
