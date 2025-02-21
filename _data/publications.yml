@@ -4,8 +4,7 @@ main:
     authors: <strong>Puyang Huang</strong>, Shan Yao, Aitian Chen, <i>et. al.</i>
     conference_short: IEDM
     conference: IEEE International Electron Devices Meeting <strong>(IEDM)</strong>, 2024.
-    pdf: 
-    bibtex: 
+    pdf: https://ieeexplore.ieee.org/document/10873571
     image: ./assets/img/Crystal_Torque.png
     notes: 
 
