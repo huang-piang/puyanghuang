@@ -15,6 +15,7 @@ My current research interest is spin-orbit torque (SOT) related physics as well 
 
 ## News
 
+- **[May. 2025]** Our paper <i> Tunable chiral magneto-transport through band structure engineering in magnetic topological insulators Mn(Bi<sub>1-x</sub>Sb<sub>x</sub>)<sub>2</sub>Te<sub>4</sub></i> is published on <b>Science Advances</b>.
 - **[Oct. 2024]** Our paper <i>Integrated Artificial Neural Network with Trainable Activation Function Enabled by Topological Insulator-based Spin-Orbit Torque Devices</i> is published on <b>ACS Nano</b>.
 - **[Sept. 2024]** Start my Ph.D. journey at <b>UCLA</b>.
 - **[Sept. 2024]** Our paper <i>Field-Free Rashba-Type Crystal Torque MRAM with High Efficiency and Thermal Stability</i> is accepted by <b>IEDM2024</b>!

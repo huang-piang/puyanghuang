@@ -1,10 +1,18 @@
 main:
 
+  - title: Tunable chiral magneto-transport through band structure engineering in magnetic topological insulators Mn(Bi<sub>1−x</sub>Sb<sub>x</sub>)<sub>2</sub>Te<sub>4</sub>
+    authors:  Peng Chen, <strong>Puyang Huang</strong>, Zeyu Li, <i>et. al.</i>
+    conference_short: Sci. Adv.
+    conference: Science Advances, 2025
+    pdf: https://www.science.org/doi/10.1126/sciadv.adt6084
+    image: ./assets/img/MBST.png
+    notes: 
+
   - title: Field-Free Rashba-Type Crystal Torque MRAM with High Efficiency and Thermal Stability
     authors: <strong>Puyang Huang</strong>, Shan Yao, Aitian Chen, <i>et. al.</i>
     conference_short: IEDM
     conference: IEEE International Electron Devices Meeting <strong>(IEDM)</strong>, 2024.
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/abstract/document/10873571
     bibtex: 
     image: ./assets/img/Crystal_Torque.png
     notes: 
@@ -17,7 +25,7 @@ main:
     image: ./assets/img/Trainable_activation.png
     notes: 
 
-  - title: Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe2 for Reliable Magnetic Memory Applications
+  - title: Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe<sub>2</sub> for Reliable Magnetic Memory Applications
     authors: Xinqi Liu, <strong>Puyang Huang</strong>, Yunyouyou Xia, <i>et. al.</i>
     conference_short: Adv. Funct. Mater.
     conference: Advanced Functional Materials, 2023
