@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Samueli Electrical and Computer Engineering Departement at University of California, Los Angeles, under the supervision of Prof. Kang L. Wang. Before that, I obtained my Bachelor degree in Electrical and Computer Engineering from Shanghai Jiao Tong University (SJTU) and Master degree in Electronic Science and Technology from ShanghaiTech University. 
+I am a Ph.D. student in the Electrical Engineering Departement at Stanford University, under the supervision of Prof. Shan X. Wang. Before that, I obtained my Bachelor degree in Electrical and Computer Engineering from Shanghai Jiao Tong University (SJTU) and Master degree in Electronic Science and Technology from ShanghaiTech University. 
 
 ## Research Interests
 
@@ -15,6 +15,7 @@ My current research interest is spin-orbit torque (SOT) related physics as well 
 
 ## News
 
+- **[Jun. 2025]** Transfer to <b>Stanford University</b> and start my <b>Summer First Fellow</b> program.
 - **[May. 2025]** Our paper <i> Tunable chiral magneto-transport through band structure engineering in magnetic topological insulators Mn(Bi<sub>1-x</sub>Sb<sub>x</sub>)<sub>2</sub>Te<sub>4</sub></i> is published on <b>Science Advances</b>.
 - **[Oct. 2024]** Our paper <i>Integrated Artificial Neural Network with Trainable Activation Function Enabled by Topological Insulator-based Spin-Orbit Torque Devices</i> is published on <b>ACS Nano</b>.
 - **[Sept. 2024]** Start my Ph.D. journey at <b>UCLA</b>.
