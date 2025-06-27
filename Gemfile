@@ -2,7 +2,8 @@ source "https://rubygems.org"
 
 gem 'rexml'
 
-gem "jekyll", "~> 4.0"
+
+gem "github-pages", group: :jekyll_plugins
 
 gem 'kramdown', '~> 2.3'
 
