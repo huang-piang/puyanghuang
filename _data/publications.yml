@@ -1,5 +1,21 @@
 main:
 
+  - title: Next-generation MRAM technologies and their emerging roles in artificial intelligence
+    authors: <strong>Puyang Huang</strong>, Maximus Aldo Di Perna, William Hwang, <i>et. al.</i>
+    conference_short: J. Magn. Magn. Mater.
+    conference: Journal of Magnetism and Magnetic Materials, 2026
+    pdf: https://www.sciencedirect.com/science/article/pii/S0304885326005007
+    image: ./assets/img/JMMM.png
+    notes:
+
+  - title: 12-inch bottom-pinned VCMA-MRAM devices with 0.6 ns switching speed, 30 fJ/bit write energy, and 10<sup>14</sup> endurance
+    authors: <strong>Puyang Huang</strong>, Qingyuan Shu, Zheng Zhu, <i>et. al.</i>
+    conference_short: IEEE Electron Dev. Lett.
+    conference: IEEE Electron Device Letters, 2026
+    pdf: https://ieeexplore.ieee.org/abstract/document/11481015
+    image: ./assets/img/EDL.png
+    notes:
+
   - title: Antiferromagnetic Materials Exhibiting Unconventional Properties
     authors: Bingqian Dai, Yang Cheng, Tao Qu, <strong>Puyang Huang</strong>, <i>et. al.</i>
     conference_short: Adv. Funct. Mater.
