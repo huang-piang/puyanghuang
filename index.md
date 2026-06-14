@@ -9,9 +9,9 @@ I am a Ph.D. student in the Electrical Engineering Departement at Stanford Unive
 ## Research Interests
 
 My current research interest is spin-orbit torque (SOT) related physics as well as novel computing network applications based on MRAM. 
-- **Spin Orbit Torque and Voltage Controlled Magnetic Anisotropy** 
-- **Mganetic Random Access Memory** 
+- **Magnetic Random Access Memory** 
 - **Neuromorphic Computing** 
+- **In-memory Computing**
 
 ## News
 
