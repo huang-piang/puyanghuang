@@ -1,5 +1,13 @@
 main:
 
+  - title: Antiferromagnetic Materials Exhibiting Unconventional Properties
+    authors: Bingqian Dai, Yang Cheng, Tao Qu, <strong>Puyang Huang</strong>, <i>et. al.</i>
+    conference_short: Adv. Funct. Mater.
+    conference: Advanced Functional Materials, 2025
+    pdf: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202508282
+    image: ./assets/img/AFM.png
+    notes:
+
   - title: Tunable chiral magneto-transport through band structure engineering in magnetic topological insulators Mn(Bi<sub>1−x</sub>Sb<sub>x</sub>)<sub>2</sub>Te<sub>4</sub>
     authors:  Peng Chen, <strong>Puyang Huang</strong>, Zeyu Li, <i>et. al.</i>
     conference_short: Sci. Adv.
