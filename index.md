@@ -15,6 +15,7 @@ My current research interest is spin-orbit torque (SOT) related physics as well 
 
 ## News
 
+- **[Sept. 2026]** Our paper <i style="color:#6cb4e4">Spin orbit torque magnetic tunneling junction for noise-tolerant and resource-saving probabilistic binary neural network</i> is published on <b>Applied Physics Reviews</b>.
 - **[Jun. 2026]** Our review paper <i style="color:#6cb4e4">Next-generation MRAM technologies and their emerging roles in artificial intelligence</i> is published on <b>Journal of Magnetism and Magnetic Materials</b>.
 - **[Apr. 2026]** Our paper <i style="color:#6cb4e4">12-inch bottom-pinned VCMA-MRAM devices with 0.6 ns switching speed, 30 fJ/bit write energy, and 10<sup>14</sup> endurance</i> is published on <b>IEEE Electron Device Letters</b>.
 - **[Dec. 2025]** Our paper <i style="color:#6cb4e4">Antiferromagnetic Materials Exhibiting Unconventional Properties</i> is published on <b>Advanced Functional Materials</b>.

@@ -1,5 +1,13 @@
 main:
 
+  - title: Spin orbit torque magnetic tunneling junction for noise-tolerant and resource-saving probabilistic binary neural network
+    authors: <strong>Puyang Huang</strong>, Yu Gu, Chenyi Fu, <i>et. al.</i>
+    conference_short: Appl. Phys. Rev.
+    conference: Applied Physics Reviews, 2026
+    pdf: https://pubs.aip.org/aip/apr/article-abstract/13/3/031415/3403758/Spin-orbit-torque-magnetic-tunneling-junction-for?redirectedFrom=fulltext
+    image: ./assets/img/PBNN.png
+    notes:
+
   - title: Next-generation MRAM technologies and their emerging roles in artificial intelligence
     authors: <strong>Puyang Huang</strong>, Maximus Aldo Di Perna, William Hwang, <i>et. al.</i>
     conference_short: J. Magn. Magn. Mater.
@@ -64,12 +72,3 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10400492
     image: ./assets/img/NegativeTMR.png
     notes: 
-
-  - title: SOT-MRAM-Enabled Probabilistic Binary Neural Networks for Noise-Tolerant and Fast Training
-    authors: <strong>Puyang Huang</strong>, Yu Gu, Chenyi Fu, <i>et. al.</i>
-    conference_short: arXiv
-    conference: arXiv, 2023
-    pdf: https://arxiv.org/abs/2309.07789
-    image: ./assets/img/PBNN.png
-    notes: 
-
